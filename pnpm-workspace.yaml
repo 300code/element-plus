@@ -27,6 +27,7 @@ onlyBuiltDependencies:
   - fsevents
   - puppeteer
   - vue-demi
+  - 'element-plus'
 
 overrides:
   jwa: ^1.4.2 # 20697
